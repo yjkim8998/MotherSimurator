@@ -3,16 +3,6 @@
 	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "VRExpansionPlugin",
-			"Enabled": false
-		},
-		{
-			"Name": "OpenVRExpansionPlugin",
-			"Enabled": false
-		}
-	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
